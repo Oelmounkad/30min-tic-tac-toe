@@ -1,0 +1,13 @@
+table {
+  border: 1px solid black;
+  margin-top: 250px;
+  margin-left: 250px;
+}
+td {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 2em;
+  cursor: pointer;
+}
